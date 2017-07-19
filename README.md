@@ -7,6 +7,10 @@ To do
  
  sudo apt-get install libncurses-dev libreadline-dev
  
+git clone  https://github.com/HandsomeYingyan/luadec-openwrt.git 
+
+cd luadec-openwrt
+ 
  
 cd lua-5.1
 
